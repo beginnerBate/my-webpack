@@ -1,4 +1,5 @@
 export default function printMe() {
-  console.log('I get called from print.js--webpack-server-dev')
+  console.log('Updating print.js....')
+  console.log("kkssksk")
   // cosnole.log('I get called from print.js!');
 }
